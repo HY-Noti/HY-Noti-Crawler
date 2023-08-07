@@ -1,2 +1,6 @@
+# secrets.yaml
 secrets.yaml
-.ipynb_checkpoints
+
+# for jupyter notebook
+*/.ipynb_checkpoints/
+.ipynb_checkpoints/
